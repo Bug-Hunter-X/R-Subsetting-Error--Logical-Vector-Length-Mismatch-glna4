@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to subsetting data frames using logical vectors. The bug arises when a logical vector of incorrect length is used to subset rows of a data frame. The solution shows how to fix this by ensuring the length of the logical vector matches the number of rows in the data frame.
